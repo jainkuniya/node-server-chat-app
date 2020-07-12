@@ -1,4 +1,4 @@
-Simple server using web socket (ws)[https://github.com/websockets/ws]
+Simple server using web socket [ws](https://github.com/websockets/ws)
 
 ## Start server
 
